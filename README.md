@@ -38,10 +38,6 @@
 ✅ **E-Commerce Website** (Built with JavaScript, React, and MySQL)  
 ✅ **Retail Pharmacist System** (Published in IRJMETS)  
 
----
-
-## 🏆 **GitHub Contribution Animation**
-![snake gif](https://github.com/Piyush-IoS/Piyush-IoS/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
