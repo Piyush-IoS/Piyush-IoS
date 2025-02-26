@@ -29,7 +29,7 @@
 
 ---
 
-## 💡 **Fun Animated Terminal**
+## 💡 **Terminology**
 ```md
 > Start Coding... ██████░░░░░░ 70% 
 > Compiling AI Model... ████████░░░░ 80% 
