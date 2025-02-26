@@ -23,9 +23,7 @@
 
 ---
 
-## 🎯 **Cool Animated GitHub Stats**
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyush-IoS&show_icons=true&theme=tokyonight&count_private=true)
-
+## 🎯 **Random Access Memory**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-IoS&layout=compact&theme=tokyonight)
 
